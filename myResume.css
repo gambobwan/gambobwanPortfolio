@@ -1,0 +1,46 @@
+.heading {
+	text-align: center;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: #e6e6e6;
+	border-width: 10px;
+}
+
+body {
+	background-color: #f2f2f2;
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-radius: 15px;
+}
+
+h4 {
+	text-align: center;
+	text-decoration: underline;
+	color: #000080;
+	font-size: 140%;
+}
+
+p {
+	padding: 0 20px;
+	font-size: 130%;
+	color: #000099;
+}
+#wk {
+	float: left;
+	float: top;
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-radius: 9px;
+	margin: 10px;
+	padding: 1px;
+}
+
+#wk2 {
+	float: right;
+	float: top;
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-radius: 9px;
+	margin: 10px;
+	padding: 1px;
+}

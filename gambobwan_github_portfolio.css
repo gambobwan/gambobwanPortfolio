@@ -1,0 +1,18 @@
+h1 {
+	color: #ffffff;
+	font-family: roboto;
+	font-weight: 900;
+	font-variant: small-caps;
+}
+
+#home {
+	background-color: #e6e6e6;
+}
+p.smcap {
+	font-variant: small-caps;
+}
+.movpics {
+	width: auto;
+	height: 220px;
+}
+
